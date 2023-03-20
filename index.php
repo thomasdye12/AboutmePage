@@ -1,5 +1,5 @@
 <?php
-$userdata = json_decode(file_get_contents('/Library/Server/Web/Data/Sites/Default/about/data.json'), true);
+$userdata = json_decode(file_get_contents('/about/data.json'), true);
 ?>
 <!DOCTYPE html>
 <html>

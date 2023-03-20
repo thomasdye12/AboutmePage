@@ -4,13 +4,10 @@
     "AutoType": {
         "Leading": "I'm",
         "endings": [
-            "a Lighting Designer",
-            "a Lighting Technician",
             "a Web Developer",
             "a Project Manager",
             "a Tech Guy",
-            "a App Designer",
-            "a Lighting Designer"
+            "a App Designer"
         ],
         "speed": 170
     },
@@ -47,48 +44,12 @@
             "type": "Title_list",
             "list": [
                 {
-                    "title": "Lighting and Sound Production",
-                    "description": "Experienced in organizing and delivering lighting and sound for theatre productions, with a strong understanding of lighting design and sound engineering concepts"
-                },
-                {
-                    "title": "Theatre and Festival arranging",
-                    "description": "Able to collaborate with directors, producers, and technical staff to ensure smooth and successful production operations. Passionate about applying these skills to the broadcasting industry and staying up-to-date on new technologies and trends."
-                },
-                {
                     "title": "Programming",
                     "description": "Proficient in multiple programming languages, with a passion for developing innovative and efficient solutions"
                 },
                 {
                     "title": "Networking",
                     "description": "Knowledgeable in networking concepts and protocols, with the ability to design, install, and maintain networks"
-                },
-                {
-                    "title": "Data Management and Data Science",
-                    "description": "Experienced in managing and analyzing data, with a strong understanding of data structures and algorithms"
-                },
-                {
-                    "title": "Problem Solving",
-                    "description": "Strong analytical and critical thinking skills, with the ability to identify and solve complex problems in a timely and efficient manner"
-                },
-                {
-                    "title": "Communication Skills",
-                    "description": "Excellent written and verbal communication skills, with the ability to explain technical concepts to a non-technical audience"
-                },
-                {
-                    "title": "Teamworking",
-                    "description": "Collaborative and communicative, with a proven ability to work effectively in a team environment and contribute to group projects"
-                },
-                {
-                    "title": "Organizational and Project Management Skills",
-                    "description": "Strong organizational and project management skills, with the ability to coordinate and oversee the technical aspects of multiple projects"
-                },
-                {
-                    "title": "Interpersonal Skills",
-                    "description": "Excellent interpersonal skills, with the ability to work effectively with a team of Subject Matter Experts, Technicians, and Stakeholders"
-                },
-                {
-                    "title": "Creative Problem Solving",
-                    "description": "Creative problem-solving skills and the ability to think on my feet and handle unexpected situations."
                 }
             ]
         },{
@@ -96,11 +57,8 @@
             "type": "Title_Images",
             "images": [
                 {
-                    "url":"/about/images/PRG_Logo.jpg",
-                    "text":"PRG"
-                }, {
-                    "url":"/about/images/640px-Apple-logo.png",
-                    "text":"Apple Developer"
+                    "url":"linktoimage",
+                    "text":"Name or text"
                 }
             ]
         },
@@ -109,47 +67,13 @@
             "type": "timeline",
             "data" :[
                 {
-                "title":"Manshead School",
-                "info":"GCSE's",
+                "title":"",
+                "info":"",
                 "date": {
-                    "start": "2015",
-                    "end": "2020"
+                    "start": "",
+                    "end": ""
                 },
-                "description": "I achieved GCSEs in English Language & Literature (Grade 5), Mathematics (Grade 6), Sound and Lighting in Drama (Grade 7), Media Production with a focus on lighting and scene presentation (Grade 6), and Computing Science (Grade 7)."
-            }, {
-                "title":"Everis",
-                "info":"Internship",
-                "date": {
-                    "start": "2019",
-                    "end": "2019"
-                },
-                "description": "During an internship at Everis NTT Data, I worked in the banking sector and developed skills in data management. As part of my work, I contributed to the writing of a white paper on a relevant topic in the industry."
-            }, {
-                "title":"The Brit School",
-                "info":"A Levels",
-                "date": {
-                    "start": "2020",
-                    "end": "2022"
-                },
-                "description": " I am a proud alumnus of The BRIT School for production arts. I completed the two-year program with distinction and gained valuable experience working on productions such as Shakespeare's \"The Tempest\" and \"Wuthering Heights.\" <br> During my time at The BRIT School, I received a comprehensive education in production arts that covered a range of topics, from set design and lighting to sound and costume design. I was able to apply this knowledge to real-world productions, gaining valuable experience in bringing literary works to life through creative expression. <br> Earning a distinction was a significant achievement for me, and I am proud of the hard work and dedication that I put into my studies. My time at The BRIT School was a transformative experience that allowed me to hone my skills and gain confidence in my abilities. <br> I am excited to continue pursuing my passion for production arts and look forward to sharing my creative talents with the world. Thank you for visiting my website, and I hope that you enjoy exploring my portfolio of work."
-            },
-            {
-                "title":"PRG",
-                "info":"Work",
-                "date": {
-                    "start": "2022",
-                    "end": "2022"
-                },
-                "description": "I worked at PRG for the Brit Awards 2022, as part of the lighting team, and I was responsible for helping them pull of the production"
-            },
-            {
-                "title":"Freelance Lighting Tech",
-                "info":"Work",
-                "date": {
-                    "start": "2022",
-                    "end": "Present"
-                },
-                "description": "I am currently working as a freelance lighting technician and designer, and I am currently working on a number of projects, including a music video for a local artist, and a short film for a local film company. I am also working on a number of projects for the local theatre company"
+                "description": ""
             }
             
 

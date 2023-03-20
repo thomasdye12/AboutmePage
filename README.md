@@ -15,7 +15,8 @@ This repository contains the source code for Thomas Dye's personal portfolio web
 ## How to run the project locally
 
 1. Clone the repository
-2. Open the `index.html` file in your preferred web browser
+2. Add the `index.php` to your web dir
+3. Update paths for the include JS and CSS that is liked as well as the location of the data.json file
 
 ## JSON Data
 
@@ -26,6 +27,7 @@ The data for the website is stored in the `data.json` file. This file includes p
 - HTML
 - CSS
 - JavaScript
+- PHP
 
 ## License
 
